@@ -28,10 +28,10 @@ parallel = ["rapier2d/parallel", "rapier2d-f64/parallel", "rapier3d/parallel", "
 experimental-wasm-nothreads = ["godot/experimental-wasm-nothreads", "godot/lazy-function-tables"]
 experimental-wasm = ["godot/experimental-wasm", "godot/lazy-function-tables"]
 experimental-threads = ["godot/experimental-threads"]
-single-dim2 = ["single", "dim2", "rapier2d", "salva2d"]
-double-dim2 = ["double", "dim2", "rapier2d-f64", "salva2d-f64"]
-single-dim3 = ["single", "dim3", "rapier3d", "salva3d"]
-double-dim3 = ["double", "dim3", "rapier3d-f64", "salva3d-f64"]
+single-dim2 = ["single", "dim2", "rapier2d"]
+double-dim2 = ["double", "dim2", "rapier2d-f64"]
+single-dim3 = ["single", "dim3", "rapier3d"]
+double-dim3 = ["double", "dim3", "rapier3d-f64"]
 
 [dependencies]
 bincode = { version = "1", optional = true }
