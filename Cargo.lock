@@ -807,7 +807,7 @@ dependencies = [
 [[package]]
 name = "rapier2d"
 version = "0.22.0"
-source = "git+https://github.com/ughuuu/rapier?branch=custom-changes#d0ffd2a8a17901bd836b8aa98a107d7cb12b9249"
+source = "git+https://github.com/TheoXD/rapier?branch=my-custom-changes#cb6d6d3d6681842b24ca536cdeefef8a18876824"
 dependencies = [
  "approx",
  "arrayvec",
@@ -832,7 +832,7 @@ dependencies = [
 [[package]]
 name = "rapier2d-f64"
 version = "0.22.0"
-source = "git+https://github.com/ughuuu/rapier?branch=custom-changes#d0ffd2a8a17901bd836b8aa98a107d7cb12b9249"
+source = "git+https://github.com/TheoXD/rapier?branch=my-custom-changes#cb6d6d3d6681842b24ca536cdeefef8a18876824"
 dependencies = [
  "approx",
  "arrayvec",
@@ -857,7 +857,7 @@ dependencies = [
 [[package]]
 name = "rapier3d"
 version = "0.22.0"
-source = "git+https://github.com/ughuuu/rapier?branch=custom-changes#d0ffd2a8a17901bd836b8aa98a107d7cb12b9249"
+source = "git+https://github.com/TheoXD/rapier?branch=my-custom-changes#cb6d6d3d6681842b24ca536cdeefef8a18876824"
 dependencies = [
  "approx",
  "arrayvec",
@@ -882,7 +882,7 @@ dependencies = [
 [[package]]
 name = "rapier3d-f64"
 version = "0.22.0"
-source = "git+https://github.com/ughuuu/rapier?branch=custom-changes#d0ffd2a8a17901bd836b8aa98a107d7cb12b9249"
+source = "git+https://github.com/TheoXD/rapier?branch=my-custom-changes#cb6d6d3d6681842b24ca536cdeefef8a18876824"
 dependencies = [
  "approx",
  "arrayvec",
